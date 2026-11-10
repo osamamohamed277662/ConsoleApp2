@@ -13,9 +13,9 @@ namespace ConsoleApp2
             Console.WriteLine("Hello world from C# App! 01 ....");
             Console.WriteLine("Hello world from C# App! 02 ....");
             Console.WriteLine("Hello world from C# App! 03");
-            Console.WriteLine("Hello world from C# App! 04 zzzzzzzz");
-            Console.WriteLine("Hello world from C# App! 05 zzzzzzzz");
-            Console.WriteLine("Hello world from C# App! 06 zzzzzzzz");
+            Console.WriteLine("Hello world from C# App! 04 Ali");
+            Console.WriteLine("Hello world from C# App! 05");
+            Console.WriteLine("Hello world from C# App! 06");
             Console.WriteLine("Hello world from C# App! 07");
             Console.WriteLine("Hello world from C# App! 08");
             Console.WriteLine("Hello world from C# App! 09");

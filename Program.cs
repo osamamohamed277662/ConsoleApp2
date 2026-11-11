@@ -24,8 +24,6 @@ namespace ConsoleApp2
             Console.WriteLine("Hello world from C# App! 12 ... No one touch this Line ");
             Console.WriteLine("Hello world from C# App! 13");
 
-            Console.WriteLine("This Rong commit ");
-
         }
     }
 }

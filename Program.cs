@@ -32,6 +32,8 @@ namespace ConsoleApp2
             Console.WriteLine("Hello Push");
             Console.WriteLine("This From visual studio code");
 
+            Console.WriteLine("Age Is Calculated");
+
 
         }
     }

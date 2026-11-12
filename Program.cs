@@ -10,7 +10,6 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world from C# App! 01 ....");
             Console.WriteLine("Hello world from C# App! 02 ....");
             Console.WriteLine("Hello world from C# App! 03");
             Console.WriteLine("Hello world from C# App! 04 Ali");
@@ -25,7 +24,12 @@ namespace ConsoleApp2
             Console.WriteLine("Hello world from C# App! 13");
 
 
+
             Console.WriteLine("Add new user secret to secret file");
+
+
+            Console.WriteLine("This From visual studio code");
+
         }
     }
 }

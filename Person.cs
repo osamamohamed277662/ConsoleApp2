@@ -7,4 +7,5 @@ public class Person
 	public DateOnly DateOfBirth { get; set; }
 
 	public int Age { get; set; }
+	public string Nationality { get; set; } = string.Empty;
 }

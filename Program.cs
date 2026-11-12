@@ -25,7 +25,7 @@ namespace ConsoleApp2
             Console.WriteLine("Hello world from C# App! 13");
 
 
-            Console.WriteLine("New Secret User Configration Added ");
+            Console.WriteLine("Add new user secret to secret file");
         }
     }
 }
